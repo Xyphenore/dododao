@@ -1481,7 +1481,7 @@ __metadata:
     flow-bin: ^0.196.3
     mocha: ^10.2.0
     npm-check-updates: ^16.6.2
-    snyk: ^1.1080.0
+    snyk: ^1.1081.0
     sqlite: ^4.1.2
     sqlite3: ^5.1.4
     stylelint: ^14.16.1
@@ -2705,9 +2705,9 @@ __metadata:
   linkType: hard
 
 "http-cache-semantics@npm:^4.1.0":
-  version: 4.1.0
-  resolution: "http-cache-semantics@npm:4.1.0"
-  checksum: 974de94a81c5474be07f269f9fd8383e92ebb5a448208223bfb39e172a9dbc26feff250192ecc23b9593b3f92098e010406b0f24bd4d588d631f80214648ed42
+  version: 4.1.1
+  resolution: "http-cache-semantics@npm:4.1.1"
+  checksum: 83ac0bc60b17a3a36f9953e7be55e5c8f41acc61b22583060e8dedc9dd5e3607c823a88d0926f9150e571f90946835c7fe150732801010845c72cd8bbff1a236
   languageName: node
   linkType: hard
 
@@ -5159,12 +5159,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"snyk@npm:^1.1080.0":
-  version: 1.1081.0
-  resolution: "snyk@npm:1.1081.0"
+"snyk@npm:^1.1081.0":
+  version: 1.1110.0
+  resolution: "snyk@npm:1.1110.0"
   bin:
     snyk: bin/snyk
-  checksum: 000865fea4e547d6c86276a3bdeca4aee10038143bc2e754ed854b480201d015ca8b17bffd2a84ccb8d1345323258fac110968b3567cf2994d767a12db9feafc
+  checksum: eccca3a3be86760d52fa1bce5b84dbad1e3d2ce9a0e2339c860cc8ce1eb9ef011617f229996e02b51f8cd64c93df052dda3a49d4401928b53ddd04319bd47a31
   languageName: node
   linkType: hard
 
