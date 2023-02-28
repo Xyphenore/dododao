@@ -1140,7 +1140,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [\
             ["cacheable-request", "npm:10.2.4"],\
             ["get-stream", "npm:6.0.1"],\
-            ["http-cache-semantics", "npm:4.1.0"],\
+            ["http-cache-semantics", "npm:4.1.1"],\
             ["keyv", "npm:4.5.2"],\
             ["mimic-response", "npm:4.0.0"],\
             ["normalize-url", "npm:8.0.0"],\
@@ -3321,10 +3321,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["http-cache-semantics", [\
-        ["npm:4.1.0", {\
-          "packageLocation": "./.yarn/cache/http-cache-semantics-npm-4.1.0-860520a31f-974de94a81.zip/node_modules/http-cache-semantics/",\
+        ["npm:4.1.1", {\
+          "packageLocation": "./.yarn/cache/http-cache-semantics-npm-4.1.1-1120131375-83ac0bc60b.zip/node_modules/http-cache-semantics/",\
           "packageDependencies": [\
-            ["http-cache-semantics", "npm:4.1.0"]\
+            ["http-cache-semantics", "npm:4.1.1"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -4272,7 +4272,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["make-fetch-happen", "npm:10.2.1"],\
             ["agentkeepalive", "npm:4.2.1"],\
             ["cacache", "npm:16.1.3"],\
-            ["http-cache-semantics", "npm:4.1.0"],\
+            ["http-cache-semantics", "npm:4.1.1"],\
             ["http-proxy-agent", "npm:5.0.0"],\
             ["https-proxy-agent", "npm:5.0.1"],\
             ["is-lambda", "npm:1.0.1"],\
@@ -4295,7 +4295,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["make-fetch-happen", "npm:11.0.2"],\
             ["agentkeepalive", "npm:4.2.1"],\
             ["cacache", "npm:17.0.4"],\
-            ["http-cache-semantics", "npm:4.1.0"],\
+            ["http-cache-semantics", "npm:4.1.1"],\
             ["http-proxy-agent", "npm:5.0.0"],\
             ["https-proxy-agent", "npm:5.0.1"],\
             ["is-lambda", "npm:1.0.1"],\
@@ -4318,7 +4318,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["make-fetch-happen", "npm:9.1.0"],\
             ["agentkeepalive", "npm:4.2.1"],\
             ["cacache", "npm:15.3.0"],\
-            ["http-cache-semantics", "npm:4.1.0"],\
+            ["http-cache-semantics", "npm:4.1.1"],\
             ["http-proxy-agent", "npm:4.0.1"],\
             ["https-proxy-agent", "npm:5.0.1"],\
             ["is-lambda", "npm:1.0.1"],\
