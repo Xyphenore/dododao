@@ -52,7 +52,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["flow-bin", "npm:0.196.3"],\
             ["mocha", "npm:10.2.0"],\
             ["npm-check-updates", "npm:16.6.2"],\
-            ["snyk", "npm:1.1081.0"],\
+            ["snyk", "npm:1.1110.0"],\
             ["sqlite", "npm:4.1.2"],\
             ["sqlite3", "virtual:5427d677c9665101c93c7e158d759c051b969c1764d0e873f024798a4500e4fb48d58c531ae6701e2cf80d7a982a56b7a861b54ed7778664e4d5e9244b62a0ac#npm:5.1.4"],\
             ["stylelint", "npm:14.16.1"],\
@@ -1477,10 +1477,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["cookiejar", [\
-        ["npm:2.1.3", {\
-          "packageLocation": "./.yarn/cache/cookiejar-npm-2.1.3-ec18b65dd0-88259983eb.zip/node_modules/cookiejar/",\
+        ["npm:2.1.4", {\
+          "packageLocation": "./.yarn/cache/cookiejar-npm-2.1.4-e418c49b9e-c444211196.zip/node_modules/cookiejar/",\
           "packageDependencies": [\
-            ["cookiejar", "npm:2.1.3"]\
+            ["cookiejar", "npm:2.1.4"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -1806,7 +1806,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["flow-bin", "npm:0.196.3"],\
             ["mocha", "npm:10.2.0"],\
             ["npm-check-updates", "npm:16.6.2"],\
-            ["snyk", "npm:1.1081.0"],\
+            ["snyk", "npm:1.1110.0"],\
             ["sqlite", "npm:4.1.2"],\
             ["sqlite3", "virtual:5427d677c9665101c93c7e158d759c051b969c1764d0e873f024798a4500e4fb48d58c531ae6701e2cf80d7a982a56b7a861b54ed7778664e4d5e9244b62a0ac#npm:5.1.4"],\
             ["stylelint", "npm:14.16.1"],\
@@ -6061,10 +6061,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["snyk", [\
-        ["npm:1.1081.0", {\
-          "packageLocation": "./.yarn/unplugged/snyk-npm-1.1081.0-4976e1268d/node_modules/snyk/",\
+        ["npm:1.1110.0", {\
+          "packageLocation": "./.yarn/unplugged/snyk-npm-1.1110.0-bdeabb9923/node_modules/snyk/",\
           "packageDependencies": [\
-            ["snyk", "npm:1.1081.0"]\
+            ["snyk", "npm:1.1110.0"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -6411,7 +6411,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [\
             ["superagent", "npm:8.0.6"],\
             ["component-emitter", "npm:1.3.0"],\
-            ["cookiejar", "npm:2.1.3"],\
+            ["cookiejar", "npm:2.1.4"],\
             ["debug", "virtual:007f670de2e506a151fec572a83f2de9d546622ece352a4cf72e57296c0aa644478f43ac47fd07d8495ee7103d37c60645e444556d514defaeb66e67a086d21f#npm:4.3.4"],\
             ["fast-safe-stringify", "npm:2.1.1"],\
             ["form-data", "npm:4.0.0"],\

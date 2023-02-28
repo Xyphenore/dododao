@@ -1232,9 +1232,9 @@ __metadata:
   linkType: hard
 
 "cookiejar@npm:^2.1.3":
-  version: 2.1.3
-  resolution: "cookiejar@npm:2.1.3"
-  checksum: 88259983ebc52ceb23cdacfa48762b6a518a57872eff1c7ed01d214fff5cf492e2660d7d5c04700a28f1787a76811df39e8639f8e17670b3cf94ecd86e161f07
+  version: 2.1.4
+  resolution: "cookiejar@npm:2.1.4"
+  checksum: c4442111963077dc0e5672359956d6556a195d31cbb35b528356ce5f184922b99ac48245ac05ed86cf993f7df157c56da10ab3efdadfed79778a0d9b1b092d5b
   languageName: node
   linkType: hard
 
@@ -1481,7 +1481,7 @@ __metadata:
     flow-bin: ^0.196.3
     mocha: ^10.2.0
     npm-check-updates: ^16.6.2
-    snyk: ^1.1080.0
+    snyk: ^1.1081.0
     sqlite: ^4.1.2
     sqlite3: ^5.1.4
     stylelint: ^14.16.1
@@ -5159,12 +5159,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"snyk@npm:^1.1080.0":
-  version: 1.1081.0
-  resolution: "snyk@npm:1.1081.0"
+"snyk@npm:^1.1081.0":
+  version: 1.1110.0
+  resolution: "snyk@npm:1.1110.0"
   bin:
     snyk: bin/snyk
-  checksum: 000865fea4e547d6c86276a3bdeca4aee10038143bc2e754ed854b480201d015ca8b17bffd2a84ccb8d1345323258fac110968b3567cf2994d767a12db9feafc
+  checksum: eccca3a3be86760d52fa1bce5b84dbad1e3d2ce9a0e2339c860cc8ce1eb9ef011617f229996e02b51f8cd64c93df052dda3a49d4401928b53ddd04319bd47a31
   languageName: node
   linkType: hard
 
