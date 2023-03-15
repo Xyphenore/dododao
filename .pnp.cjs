@@ -54,7 +54,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["npm-check-updates", "npm:16.6.2"],\
             ["snyk", "npm:1.1110.0"],\
             ["sqlite", "npm:4.1.2"],\
-            ["sqlite3", "virtual:5427d677c9665101c93c7e158d759c051b969c1764d0e873f024798a4500e4fb48d58c531ae6701e2cf80d7a982a56b7a861b54ed7778664e4d5e9244b62a0ac#npm:5.1.4"],\
+            ["sqlite3", "virtual:5427d677c9665101c93c7e158d759c051b969c1764d0e873f024798a4500e4fb48d58c531ae6701e2cf80d7a982a56b7a861b54ed7778664e4d5e9244b62a0ac#npm:5.1.5"],\
             ["stylelint", "npm:14.16.1"],\
             ["supertest", "npm:6.3.3"]\
           ],\
@@ -1808,7 +1808,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["npm-check-updates", "npm:16.6.2"],\
             ["snyk", "npm:1.1110.0"],\
             ["sqlite", "npm:4.1.2"],\
-            ["sqlite3", "virtual:5427d677c9665101c93c7e158d759c051b969c1764d0e873f024798a4500e4fb48d58c531ae6701e2cf80d7a982a56b7a861b54ed7778664e4d5e9244b62a0ac#npm:5.1.4"],\
+            ["sqlite3", "virtual:5427d677c9665101c93c7e158d759c051b969c1764d0e873f024798a4500e4fb48d58c531ae6701e2cf80d7a982a56b7a861b54ed7778664e4d5e9244b62a0ac#npm:5.1.5"],\
             ["stylelint", "npm:14.16.1"],\
             ["supertest", "npm:6.3.3"]\
           ],\
@@ -6191,17 +6191,17 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["sqlite3", [\
-        ["npm:5.1.4", {\
-          "packageLocation": "./.yarn/unplugged/sqlite3-virtual-1ba2a9b27e/node_modules/sqlite3/",\
+        ["npm:5.1.5", {\
+          "packageLocation": "./.yarn/unplugged/sqlite3-virtual-346dc99f57/node_modules/sqlite3/",\
           "packageDependencies": [\
-            ["sqlite3", "npm:5.1.4"]\
+            ["sqlite3", "npm:5.1.5"]\
           ],\
           "linkType": "SOFT"\
         }],\
-        ["virtual:5427d677c9665101c93c7e158d759c051b969c1764d0e873f024798a4500e4fb48d58c531ae6701e2cf80d7a982a56b7a861b54ed7778664e4d5e9244b62a0ac#npm:5.1.4", {\
-          "packageLocation": "./.yarn/unplugged/sqlite3-virtual-1ba2a9b27e/node_modules/sqlite3/",\
+        ["virtual:5427d677c9665101c93c7e158d759c051b969c1764d0e873f024798a4500e4fb48d58c531ae6701e2cf80d7a982a56b7a861b54ed7778664e4d5e9244b62a0ac#npm:5.1.5", {\
+          "packageLocation": "./.yarn/unplugged/sqlite3-virtual-346dc99f57/node_modules/sqlite3/",\
           "packageDependencies": [\
-            ["sqlite3", "virtual:5427d677c9665101c93c7e158d759c051b969c1764d0e873f024798a4500e4fb48d58c531ae6701e2cf80d7a982a56b7a861b54ed7778664e4d5e9244b62a0ac#npm:5.1.4"],\
+            ["sqlite3", "virtual:5427d677c9665101c93c7e158d759c051b969c1764d0e873f024798a4500e4fb48d58c531ae6701e2cf80d7a982a56b7a861b54ed7778664e4d5e9244b62a0ac#npm:5.1.5"],\
             ["@mapbox/node-pre-gyp", "npm:1.0.10"],\
             ["@types/node-gyp", null],\
             ["node-addon-api", "npm:4.3.0"],\
